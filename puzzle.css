@@ -3,7 +3,7 @@ body{
     font-family: cursive;
     font-size: 14pt;
     text-align: center;
-    background-color: rgb(85, 192, 219);
+    background-color: rgb(203, 197, 31);
     color: white;
 }
 button {
@@ -30,13 +30,13 @@ button {
     width: 97px;
     height: 97px;
     position: absolute;
-    color: blue;
+    color: rgb(111, 108, 16);
 }
 
 /* This class should be applied to a puzzle piece that can be moved. */
 .movablepiece:hover {
-    border-color: red;
-    color: red;
+    border-color: rgb(255, 4, 92);
+    color: rgb(255, 4, 92);
 }
 
 /* grading styles -- for TAs only; not required by students */
